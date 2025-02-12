@@ -38,7 +38,7 @@ function App() {
           </div>
           <div className="bg-white p-6 rounded-lg shadow">
             <h2 className="text-xl font-semibold mb-2">Feature 3</h2>
-            <p className="text-gray-600">Ut enim ad minim veniam, quis nostrud exercitation.</p>
+            <p className="text-gray-600">K Ut enim ad minim veniam, quis nostrud exercitation.</p>
           </div>
         </div>
       </div>
